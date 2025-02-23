@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practico 3\\ASPX\\SessionVariable_19795391\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13742A62-49AE-4225-AF26-2AE5167C9903}|SessionVariable_19795391\\SessionVariable_19795391.csproj|c:\\users\\angel\\desktop\\practicas arcides\\practico 3\\aspx\\sessionvariable_19795391\\sessionvariable_19795391\\sessionvariable2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13742A62-49AE-4225-AF26-2AE5167C9903}|SessionVariable_19795391\\SessionVariable_19795391.csproj|solutionrelative:sessionvariable_19795391\\sessionvariable2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13742A62-49AE-4225-AF26-2AE5167C9903}|SessionVariable_19795391\\SessionVariable_19795391.csproj|c:\\users\\angel\\desktop\\practicas arcides\\practico 3\\aspx\\sessionvariable_19795391\\sessionvariable_19795391\\sessionvariable2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{13742A62-49AE-4225-AF26-2AE5167C9903}|SessionVariable_19795391\\SessionVariable_19795391.csproj|solutionrelative:sessionvariable_19795391\\sessionvariable2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13742A62-49AE-4225-AF26-2AE5167C9903}|SessionVariable_19795391\\SessionVariable_19795391.csproj|c:\\users\\angel\\desktop\\practicas arcides\\practico 3\\aspx\\sessionvariable_19795391\\sessionvariable_19795391\\sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13742A62-49AE-4225-AF26-2AE5167C9903}|SessionVariable_19795391\\SessionVariable_19795391.csproj|solutionrelative:sessionvariable_19795391\\sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13742A62-49AE-4225-AF26-2AE5167C9903}|SessionVariable_19795391\\SessionVariable_19795391.csproj|c:\\users\\angel\\desktop\\practicas arcides\\practico 3\\aspx\\sessionvariable_19795391\\sessionvariable_19795391\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{13742A62-49AE-4225-AF26-2AE5167C9903}|SessionVariable_19795391\\SessionVariable_19795391.csproj|C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practico 3\\ASPX\\SessionVariable_19795391\\sessionvariable_19795391\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{13742A62-49AE-4225-AF26-2AE5167C9903}|SessionVariable_19795391\\SessionVariable_19795391.csproj|solutionrelative:sessionvariable_19795391\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -23,19 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SessionVariable2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practico 3\\ASPX\\SessionVariable_19795391\\SessionVariable_19795391\\SessionVariable2.aspx.cs",
+              "RelativeDocumentMoniker": "SessionVariable_19795391\\SessionVariable2.aspx.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practico 3\\ASPX\\SessionVariable_19795391\\SessionVariable_19795391\\SessionVariable2.aspx.cs",
+              "RelativeToolTip": "SessionVariable_19795391\\SessionVariable2.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwBIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:52:29.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionVariable2.aspx",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practico 3\\ASPX\\SessionVariable_19795391\\SessionVariable_19795391\\SessionVariable2.aspx",
+              "RelativeDocumentMoniker": "SessionVariable_19795391\\SessionVariable2.aspx",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practico 3\\ASPX\\SessionVariable_19795391\\SessionVariable_19795391\\SessionVariable2.aspx",
+              "RelativeToolTip": "SessionVariable_19795391\\SessionVariable2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-23T05:50:15.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SessionVariable.aspx.cs",
               "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practico 3\\ASPX\\SessionVariable_19795391\\SessionVariable_19795391\\SessionVariable.aspx.cs",
               "RelativeDocumentMoniker": "SessionVariable_19795391\\SessionVariable.aspx.cs",
               "ToolTip": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practico 3\\ASPX\\SessionVariable_19795391\\SessionVariable_19795391\\SessionVariable.aspx.cs",
               "RelativeToolTip": "SessionVariable_19795391\\SessionVariable.aspx.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBwAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T05:27:49.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SessionVariable.aspx",
               "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practico 3\\ASPX\\SessionVariable_19795391\\SessionVariable_19795391\\SessionVariable.aspx",
               "RelativeDocumentMoniker": "SessionVariable_19795391\\SessionVariable.aspx",
@@ -43,8 +77,7 @@
               "RelativeToolTip": "SessionVariable_19795391\\SessionVariable.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-23T05:23:28.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T05:23:28.672Z"
             }
           ]
         }
